@@ -1,5 +1,7 @@
 using CatalogService as service from '../../srv/CatalogService';
 
+//Testing CICD 12-1-2024
+
 annotate service.POs with @(
     UI.SelectionFields:[
         PO_ID,
